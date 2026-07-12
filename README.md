@@ -50,15 +50,7 @@ This project is an interactive Microsoft Excel dashboard that analyzes the perfo
 
 ## 📸 Dashboard Preview
 
-> Add a screenshot of your dashboard here.
 
-Example:
-
-```
-images/dashboard.png
-```
-
----
 
 ## 📈 Key Insights
 
