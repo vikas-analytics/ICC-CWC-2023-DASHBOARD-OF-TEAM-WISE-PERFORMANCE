@@ -49,7 +49,7 @@ This project is an interactive Microsoft Excel dashboard that analyzes the perfo
 ---
 
 ## 📸 Dashboard Preview
-
+https://github.com/vikas-analytics/ICC-CWC-2023-DASHBOARD-OF-TEAM-WISE-PERFORMANCE/blob/main/cwc2023%20dashboard%20preview.png
 
 
 ## 📈 Key Insights
