@@ -28,7 +28,8 @@ This project is an interactive Microsoft Excel dashboard that analyzes the perfo
 - Total score team wise
 - Highest score by player from Each team
 - Highest wicket taker from the team
-- 
+- Best Bowling Average
+- Best Batting Average 
 
 ---
 
