@@ -58,6 +58,7 @@ https://github.com/vikas-analytics/ICC-CWC-2023-DASHBOARD-OF-TEAM-WISE-PERFORMAN
 - Compared wins, losses, and points across all participating teams.
 - Visualized overall tournament trends using interactive charts.
 - Built a dashboard that allows quick performance comparison using slicers.
+- The overall percentage of winning the tournament
 
 ---
 
