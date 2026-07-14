@@ -25,6 +25,10 @@ This project is an interactive Microsoft Excel dashboard that analyzes the perfo
 - Interactive Slicers
 - Dynamic Charts & Graphs
 - Clean and User-Friendly Dashboard
+- Total score team wise
+- Highest score by player from Each team
+- Highest wicket taker from the team
+- 
 
 ---
 
